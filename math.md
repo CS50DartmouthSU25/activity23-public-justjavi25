@@ -1,10 +1,7 @@
 # Mathematics
 
 ---
-**MATH095** _Analytic and Algebraic
-Topology of Locally Euclidean
-Memorization of Infinitely Different
-Schiphol, Riemann, and Manifold Poissonnois_
+**MATH095** _Analytic and Algebraic Topology of Locally Euclidean ... and Manifold Poissonnois_
 > Topics include plagiarism, connection between math and music, and Lobachevsky's work.
 **MATH042** _Linear Algebra_
 > Prerequisite for every other math class offered here.
